@@ -1,0 +1,31 @@
+.text{
+    margin-bottom: 5px;
+}
+
+.text button{
+   padding: 5px;
+   font-size: 20px;
+   color: white;
+   border: none;
+   background-color: black;
+}
+
+.projet{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    padding: 80px;
+}
+
+.projet .card {
+    width: 240px;
+    height: 290px;
+}
+
+.projet .card img {
+    width: 240px;
+    height: 290px;
+    object-fit: cover;
+    border-radius: 20px;
+}
