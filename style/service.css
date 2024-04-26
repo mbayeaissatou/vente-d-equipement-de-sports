@@ -16,16 +16,19 @@
     justify-content: center;
     gap: 15px;
     padding: 80px;
+    margin-top: 20px;
 }
 
 .projet .card {
-    width: 240px;
-    height: 290px;
+    width: 340px;
+    height: 390px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .projet .card img {
-    width: 240px;
-    height: 290px;
+    width: 340px;
+    height: 390px;
     object-fit: cover;
     border-radius: 20px;
 }
